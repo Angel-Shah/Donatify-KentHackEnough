@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Donatify",
+    "description":"Round up your purchase total on ecommerce sites and donate a bit each time to the charities you resonate with most. A little bit goes a long way!",
+    "version":"",
+    "icons":{
+        "16":"",
+        "48":"",
+        "128":""
+    },
+    "page_action":{
+        "default_icon":{
+            "16":"",
+            "48":"",
+            "128":""
+        }
+    },
+}
