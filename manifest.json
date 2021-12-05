@@ -8,12 +8,14 @@
         "48":"/images/donatify-favicon.png",
         "128":"/images/donatify-favicon.png"
     },
-    "page_action":{
+    "browser_action":{
+        "default_popup":"login.html",
         "default_icon":{
-            "16":"/images/donatify-favicon.png",
-            "48":"/images/donatify-favicon.png",
-            "128":"/images/donatify-favicon.png"
-        }
-    }
+                    "16":"/images/donatify-favicon.png",
+                    "48":"/images/donatify-favicon.png",
+                    "128":"/images/donatify-favicon.png"
+                }
+    },
+    "permissions":[]
   
 }
